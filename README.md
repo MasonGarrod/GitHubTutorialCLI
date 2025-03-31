@@ -1,2 +1,1 @@
-# GitHubTutorialCLI
-Tutorial for creating a GitHub repository.
+Mason's Portfolio Website
