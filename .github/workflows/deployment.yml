@@ -1,0 +1,10 @@
+name: Deploy Website 
+
+on: 
+  push:
+    branches:
+      [main]
+
+jobs: 
+ projectdeploy: 
+  runs-on: ubuntu-latest 
