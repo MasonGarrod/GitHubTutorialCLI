@@ -18,7 +18,7 @@ jobs:
    - name: Checkout Repository
      uses: actions/checkout@v4
 
-   - name: Unload Artifact
+   - name: Upload Artifact
      uses: actions/upload-pages-artifact@v3 
      with:
       path: .
